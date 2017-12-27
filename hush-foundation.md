@@ -8,7 +8,7 @@ I've been listening to the public chatter and talking privately with a bunch of 
 
 A few community members and I brainstormed how to tackle these issues. The implementation could be a "foundation" made up of non-core community members (+ one or two core devs to oversee things). I see the issues stated above being tackled via two phases: 
 
-[u]First Phase[/u]
+[First Phase]
 
 Set up dev fee mining pool + website for bounties + allow community members to contribute ideas and vote for bounties (need someone on core team to review code and approve disbursement of bounty)
 
@@ -25,7 +25,7 @@ I will lend a substantial amount of HUSH to fund the initial bounties (I have a 
 We can stop this program at anytime (if the fund gets bloated and there's plenty of cash to fund dev)
 
 
-[u]Second Phase[/u]
+[Second Phase]
 
 Set up a dev competition. Devs would submit dApps, smart contracts, etc.... a good example of a similar competition here - https://cityofzion.io/dapps/1
 
