@@ -1,8 +1,6 @@
 **AIM: To create a sustainable, community-driven funding mechanism to support software development and to create a structure to ensure the non-dev HUSH community has a voice.**
 
-I've been listening to the public chatter and talking privately with a bunch of community members to get an idea of the HUSH community sentitment and how to improve the current situation...
-
-My conclusion:
+I've been listening to the public chatter and talking privately with a bunch of community members to get an idea of the HUSH community sentitment and how to improve the current situation. My conclusion is we:
 
 	1. Need to create a sustainable funding mechanism
 	2. Need to attract more developers
