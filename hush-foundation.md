@@ -18,7 +18,7 @@ Notes:
 
 I can start a business to run the mining pool to ensure we have decent hashrate when we start (if no one else is willing, i want to start a mining farm in China anyway). 
 
-I want to "kick off" the foundation by rewarding some past contributions (you, kent, iceyballz, trunk, etc.)
+I want to "kick off" the foundation by rewarding some past contributions (duke, kent, iceyballz, trunk, etc. --- sorry if i missed anyone, a bit new here)
 
 I will lend a substantial amount of HUSH to fund the initial bounties (I have a list of a bunch and I want to get others to give ideas, too). The dev fee mining pool can re-pay me/others over time. This should attract devs faster.
 
