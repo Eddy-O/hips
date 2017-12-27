@@ -1,6 +1,6 @@
 So I've been researching for awhile and talking privately with a bunch of community members to get an idea of what's happening in the community and how to improve the current situation...
 
-My conclusion: 
+**My conclusion:** 
 
 	1. Need to create a sustainable funding mechanism
 	2. Need to attract more developers
@@ -8,9 +8,9 @@ My conclusion:
 
 A few community members and I brainstormed how to tackle these issues. The implementation could be a "foundation" made up of non-core community members (+ one or two core devs to oversee things). I see the issues being tackled via two phases: 
 
-First Phase
+**First Phase:**
 
-Set up dev fee mining pool + website for bounties + allowing community members to contribute ideas and vote for bounties (need someone on core team to review code and approve disbursement of bounty)
+Set up dev fee mining pool + website for bounties + allow community members to contribute ideas and vote for bounties (need someone on core team to review code and approve disbursement of bounty)
     		
 	I can start a business to run the mining pool to ensure we have decent hashrate when we start (if no one else is willing, i want to start a mining farm in China anyway). 
     
@@ -22,7 +22,7 @@ Set up dev fee mining pool + website for bounties + allowing community members t
 
 	Hush foundation's role is to collect weekly/bi-monthy updates from those working on bounties. An example of how a similar organization (CoZ) reports is here - https://medium.com/proof-of-working/weekly-report-19-2017-11-22-ee02be1b33b3 -- core dev is not in that update. same would go for ours.
 
-Second Phase
+**Second Phase**
 
 Set up a dev competition (willing to donate some of my HUSH for this cause. maybe others would be willing to do it, too. if not, can rely on me to fund first one entirely)
 
