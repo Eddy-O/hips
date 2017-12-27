@@ -1,3 +1,12 @@
+<pre>
+  CIP: 2
+  Title: Hush Foundation
+  Author: Eddy O. <ejdolivares@gmail.com>
+  Status: Draft
+  Type: Process
+  Created: 2017-12-27
+</pre>
+
 **AIM: To create a sustainable, community-driven funding mechanism to support software development and to create a structure to ensure the non-dev HUSH community has a voice.**
 
 I've been listening to the public chatter and talking privately with a bunch of community members to get an idea of the HUSH community sentitment and how to improve the current situation. My conclusion is we:
