@@ -1,8 +1,8 @@
 **AIM: To create a sustainable, community-driven funding mechanism to support software development and to create a structure to ensure the non-dev HUSH community has a voice.**
 
-I've been researching for awhile and talking privately with a bunch of community members to get an idea of what's happening in the community and how to improve the current situation...
+I've been listening to the public chatter and talking privately with a bunch of community members to get an idea of the HUSH community sentitment and how to improve the current situation...
 
-*My conclusion:*
+My conclusion:
 
 	1. Need to create a sustainable funding mechanism
 	2. Need to attract more developers
@@ -10,13 +10,14 @@ I've been researching for awhile and talking privately with a bunch of community
 
 A few community members and I brainstormed how to tackle these issues. The implementation could be a "foundation" made up of non-core community members (+ one or two core devs to oversee things). I see the issues stated above being tackled via two phases: 
 
-**First Phase**
+[u]First Phase[/u]
 
 Set up dev fee mining pool + website for bounties + allow community members to contribute ideas and vote for bounties (need someone on core team to review code and approve disbursement of bounty)
 
 During this phase, Hush foundation's role is to collect weekly/bi-monthy updates from those working on bounties. An example of how a similar organization (CoZ) reports is here - https://medium.com/proof-of-working/weekly-report-19-2017-11-22-ee02be1b33b3. As you can see, there is no core dev update. Same would apply for this foundation- it is not about core development updates. 
 
 Notes:
+
 I can start a business to run the mining pool to ensure we have decent hashrate when we start (if no one else is willing, i want to start a mining farm in China anyway). 
 
 I want to "kick off" the foundation by rewarding some past contributions (you, kent, iceyballz, trunk, etc.)
@@ -26,13 +27,14 @@ I will lend a substantial amount of HUSH to fund the initial bounties (I have a 
 We can stop this program at anytime (if the fund gets bloated and there's plenty of cash to fund dev)
 
 
-**Second Phase**
+[u]Second Phase[/u]
 
 Set up a dev competition. Devs would submit dApps, smart contracts, etc.... a good example of a similar competition here - https://cityofzion.io/dapps/1
 
 Leading up to the competition, the foundation should/could be reaching out to organizations and setting up the framework for the competition. We can get some VIPs (influential people in blockchain?) + core devs + community to vote on the winner. After the competition, we may consider setting up some infrastructure to support the projects that were developed for the Hush platform (marketing help, a bit of funding, guidance,  etc.). For the CoZ competition, some of the projects will go on to ICO- it ended up being very impactful for their ecosystem.
 
 Notes:
+
 I'm willing to donate some of my HUSH for this cause. maybe others would be willing to do it, too. if not, can rely on me to fund first one entirely)
 
 We can wait to do this as the HUSH price increases, to leverage our impact and attract the most people
