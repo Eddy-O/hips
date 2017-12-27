@@ -37,7 +37,7 @@ I'm willing to donate some of my HUSH for this cause. maybe others would be will
 
 We can wait to do this as the HUSH price increases, to leverage our impact and attract the most people
 
-We can time also time this with an important release to the core (like smart contracts ability). This will help Hush gain awareness for Hush's superior features. We may be able to get a corporation (which meshes with the ideology of Hush) to sponsor the competition with us (Microsoft did it with NEO).
+We can time also time this with an important release to the core (like smart contracts ability). This will help gain awareness for the cool tech core is working on! We may be able to get a corporation (which meshes with the ideology of Hush) to sponsor the competition with us (Microsoft did it with NEO).
 
 ____
 
