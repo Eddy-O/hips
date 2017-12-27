@@ -1,8 +1,8 @@
 **AIM: To create a sustainable, community-driven funding mechanism to support software development and to create a structure to ensure the non-dev HUSH community has a voice.**
 
-So I've been researching for awhile and talking privately with a bunch of community members to get an idea of what's happening in the community and how to improve the current situation...
+I've been researching for awhile and talking privately with a bunch of community members to get an idea of what's happening in the community and how to improve the current situation...
 
-**My conclusion:** 
+*My conclusion:*
 
 	1. Need to create a sustainable funding mechanism
 	2. Need to attract more developers
@@ -10,7 +10,7 @@ So I've been researching for awhile and talking privately with a bunch of commun
 
 A few community members and I brainstormed how to tackle these issues. The implementation could be a "foundation" made up of non-core community members (+ one or two core devs to oversee things). I see the issues stated above being tackled via two phases: 
 
-**First Phase:**
+**First Phase**
 
 Set up dev fee mining pool + website for bounties + allow community members to contribute ideas and vote for bounties (need someone on core team to review code and approve disbursement of bounty)
 
@@ -43,9 +43,5 @@ We can time also time this with an important release to the core (like smart con
 
 There are a lot of details not discussed here- this is a rough draft. I have spoken with multiple members of the community and the feedback was positive, so I'm presenting the idea publicly. All work going forward should/will be done transparently on the #marketing-sync channel.
 
-Lastly, I have a concern. I feel it's important that if something like this is implemented, the foundation be "officially" connected to the core team. The foundation should be run by the community, but at least one core dev be a member at all times (and thus the "connecting link"). If it's not "officially" connected, then it will be hard to achieve the goals of the foundation. 
-
-///
-
- 
+Lastly, I have a concern. I feel it's important that if something like this is implemented, the foundation be "officially" connected to the core team. The foundation should be run by the community, but at least one core dev should be a member at all times (and thus the "connecting link"). If it's not "officially" connected, then it will be hard to achieve the goals of the foundation. 
 
